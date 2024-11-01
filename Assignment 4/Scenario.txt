@@ -1,0 +1,5 @@
+Scenario: Climate Data Analysis for a Research Center 
+As a data scientist at a climate research center, you have been provided with daily 
+temperature and humidity data collected from 500 locations over one year. Your objective is 
+to analyze this data for trends, seasonal patterns, and other useful metrics tha t can aid in 
+understanding climate changes across various regions. 
