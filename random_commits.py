@@ -13,7 +13,7 @@ def get_random_date_in_last_month():
     return random_date.strftime("%Y-%m-%d %H:%M:%S")
 
 # Number of commits to make on each random day
-days_to_commit = random.randint(1, 6)  # Random days for commits
+days_to_commit = random.randint(3, 7)  # Random days for commits
 
 # Your GitHub email
 github_email = "zalaidbutt1@gmail.com"  # Replace with your GitHub email
